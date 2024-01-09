@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gsinghstore.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/gsinghstore.github.io/static/js/main.61b3a1d3.js",
+    "static/js/787.5c65c091.chunk.js": "/gsinghstore.github.io/static/js/787.5c65c091.chunk.js",
+    "index.html": "/gsinghstore.github.io/index.html",
+    "main.e6c13ad2.css.map": "/gsinghstore.github.io/static/css/main.e6c13ad2.css.map",
+    "main.61b3a1d3.js.map": "/gsinghstore.github.io/static/js/main.61b3a1d3.js.map",
+    "787.5c65c091.chunk.js.map": "/gsinghstore.github.io/static/js/787.5c65c091.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.61b3a1d3.js"
+  ]
+}
